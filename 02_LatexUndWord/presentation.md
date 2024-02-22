@@ -11,7 +11,7 @@ narrator: DE
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/blob/master/00_Einfuehrung.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/02_LatexUndWord/presentation.md#1)
 
 # TUABF Bits&Bytes
 
@@ -102,7 +102,7 @@ Hello, World!
 \end{document}
 ```
 
-__Latex kombiniert Struktur und Formatierung explizit in einem Dokument! Aus dem WYSIWYG wird ein _What You See Is What You Mean_ [WYSIWYM](https://de.wikipedia.org/wiki/WYSIWYM).__
+> __Latex kombiniert Struktur und Formatierung explizit in einem Dokument! Aus dem WYSIWYG wird ein _What You See Is What You Mean_ [WYSIWYM](https://de.wikipedia.org/wiki/WYSIWYM).__
 
 ### Historie
 
@@ -116,7 +116,7 @@ __Latex kombiniert Struktur und Formatierung explizit in einem Dokument! Aus dem
 
 Brauche ich denn im Angesicht von interaktiven Office Textverarbeitungstools überhaupt noch LaTeX?
 
-![](./images/Screenshot_Word.jpg)
+![](./images/Screenshot_Word.jpg)<!-- width="60%" -->
 
 > Welche Probleme haben Sie bei der Nutzung einer WYSIWYG Textverarbeitung?
 
@@ -164,7 +164,7 @@ Das Ausgangsdokument finden Sie unter [diesem Link](XXXX), das finale pdf [hier]
 | Tabellen              | Ja                                     | Ja                                                                                 |
 | Bildverwaltung        | Ja                                     | Ja                                                                                 |
 | Bibliographie         | beschränkt                             | Ja                                                                                 |
-| Mathematische Formeln | Ja ( mit Latex-Notation :-))            | Sehr stark ausgeprägt und erweitert                                                |
+| Mathematische Formeln | Ja ( mit Latex-Notation :-))           | Sehr stark ausgeprägt und erweitert                                                |
 | Typografie            | "Man kann alles falsch machen"         | Hohe Kontrolle über Typografie                                                     |
 | Versionskontrolle     | Begrenzte Unterstützung                | Gut unterstützt mit Versionierungstools wie Git                                    |
 | Kompatibilität        | Sehr gut, weit verbreitet              | Erfordert spezielle Software für Anzeige und Bearbeitung (z.B. TeX-Distributionen) |
