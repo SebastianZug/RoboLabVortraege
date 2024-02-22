@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.1
+version:  0.0.2
 
 language: en
 
@@ -149,6 +149,15 @@ Hello, World!
 ```
 
 Das Ausgangsdokument finden Sie unter [diesem Link](https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/Latex_Beispiel/Bespiel.tex), das finale pdf [hier](XXXX).
+
+## Worüber haben wir nicht gesprochen?
+
++ Bibtex in der Breite
++ Generierung von Grafiken (2D, 3D)
++ Manipulation der Typografie und des Layouts
++ weitere Ausgabetypen (z.B. Präsentationen, ...)
++ Softwaregetriebene Latex-Code-Erzeugung (z.B. R, Python, ...)
++ ...
 
 ## Fazit
 
