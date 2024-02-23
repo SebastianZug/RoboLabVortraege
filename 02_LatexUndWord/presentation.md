@@ -17,7 +17,7 @@ narrator: DE
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/02_LatexUndWord/presentation.md#1)
 
-# TUABF Bits&Bytes
+# TUBAF Bits&Bytes
 
 Word vs. Latex - Ein kritischer Vergleich
 ----------------------------------------------------------------
