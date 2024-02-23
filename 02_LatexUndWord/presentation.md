@@ -3,9 +3,13 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.2
+version:  0.0.3
 
 language: en
+
+logo:     https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/images/Logo.jpg?raw=true
+
+comment:  "Word vs. Latex - Ein kritischer Vergleich" systematisiert die konzeptionellen Unterschiede und führt in einem Live-Tutorial in die Grundlagen von Latex ein.
 
 narrator: DE
 
@@ -148,7 +152,7 @@ Hello, World!
 \end{document}
 ```
 
-Das Ausgangsdokument finden Sie unter [diesem Link](https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/Latex_Beispiel/Bespiel.tex), das finale pdf [hier](XXXX).
+Das Ausgangsdokument finden Sie unter [diesem Link](https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/Latex_Beispiel/Beispiel.tex), das finale pdf [hier](https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/Latex_Beispiel/Beispiel_result.pdf).
 
 ## Worüber haben wir nicht gesprochen?
 
