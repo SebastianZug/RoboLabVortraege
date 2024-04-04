@@ -2,3 +2,8 @@
 02_LatexUndWord/Logo/logo.synctex.gz
 02_LatexUndWord/Latex_Beispiel/Beispiel.fdb_latexmk
 02_LatexUndWord/Latex_Beispiel/Bespiel.synctex.gz
+*.aux
+*.fls
+*.log 
+*.pdf
+*.fdb_latexmk
