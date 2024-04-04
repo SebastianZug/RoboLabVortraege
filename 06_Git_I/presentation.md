@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.4
+version:  0.0.5
 
 language: en
 
@@ -102,10 +102,6 @@ Und nun übertragen wir den Ansatz auf eine Projekt mit vielen Mitstreitern. Die
 7. _Meine Änderungen wurden von einem Mitstreiter einfach überschrieben._
 
 ******************************************************************************
-
-### Zielstellung
-
-
 
 
 ### Lösungsansätze
