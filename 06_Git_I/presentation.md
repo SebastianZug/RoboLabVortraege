@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.3
+version:  0.0.4
 
 language: en
 
@@ -752,7 +752,7 @@ _Einfaches Editieren_: Sie klonen das gesamte Repository, dass sich auf dem "Ser
         +------------->|  git commit   |                 |
                        |-------------->|   git push      |
                        |               |---------------->|
-                       |               |                 |                     .
+                       |               |                 |                                         .
 ```
 
 
@@ -788,7 +788,7 @@ entstehen, wird daraus ein neuer Commit generiert, den Sie dann mit Ihren Anpass
                        |               |   git merge     |   + git merge
                        |               |<--------------- |   = git pull
                        |               |   git push      |
-                       |               |---------------->|                   .
+                       |               |---------------->|                                          .
 ```
 
 
