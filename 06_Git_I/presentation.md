@@ -3,13 +3,11 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.5
+version:  0.0.6
 
 language: en
 
-logo:     https://github.com/SebastianZug/RoboLabVortraege/blob/main/02_LatexUndWord/images/Logo.jpg?raw=true
-
-comment:  "Word vs. Latex - Ein kritischer Vergleich" systematisiert die konzeptionellen Unterschiede und führt in einem Live-Tutorial in die Grundlagen von Latex ein.
+comment:  "I don't git it" Einführung in die Grundlagen der Versionsverwaltung 
 
 import: https://github.com/liascript/CodeRunner
         https://raw.githubusercontent.com/liaTemplates/ExplainGit/master/README.md
