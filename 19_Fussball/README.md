@@ -133,11 +133,12 @@ Wie werden wir vorgehen?
 
 ## Umsetzung
 
-| Datei                                              | Beschreibung                                                                           |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [00_jupyter_intro.ipynb](00_jupyter_intro.ipynb)   | Einführung der Basiskonzepte von Notebooks                                             |
-| [01_football.ipynb](01_football.ipynb)             | Arbeitsblatt für die interaktive Exploration                                           |
-| [02_football_final.ipynb](02_football_final.ipynb) | Vollständiges Beispiel für die Analyse der Daten zur Kombination Deutschland - Spanien |
+| Datei                                                                                                                       | Beschreibung                                                                           |       Links auf CoLabs                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`00_jupyter_intro.ipynb`](https://github.com/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/00_jupyter_intro.ipynb)   | Einführung der Basiskonzepte von Notebooks                                             | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/00_jupyter_intro.ipynb)  |
+| [`01_football.ipynb`](https://github.com/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/01_football.ipynb)             | Arbeitsblatt für die interaktive Exploration                                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/01_football.ipynb)       |
+| [`02_football_final.ipynb`](https://github.com/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/02_football_final.ipynb) | Vollständiges Beispiel für die Analyse der Daten zur Kombination Deutschland - Spanien | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SebastianZug/RoboLabVortraege/blob/main/19_Fussball/02_football_final.ipynb) |
+
 
 ## Resumee
 
