@@ -2,7 +2,7 @@
 
 author:   Sebastian Zug 
 email:    sebastian.zug@informatik.tu-freiberg.de 
-version:  1.1.2
+version:  1.1.3
 language: de
 narrator: Deutsch Female
 
@@ -19,7 +19,7 @@ import: https://github.com/liascript/CodeRunner
 
 # Zeigs mir! Anwendung von Pointern in C und C++
 
-<h2>Datenanlyse mit Python und Pandas </h2>
+<h2>Konzepte und Anwendung</h2>
 
 Vortrag im Rahmen der Bits&Bytes Vorträge des RoboLab Freiberg 
 
