@@ -3,9 +3,9 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.7
+version:  0.0.8
 
-language: DE
+language: de
 
 comment:  "I don't git it" Einführung in die Grundlagen der Versionsverwaltung 
 
