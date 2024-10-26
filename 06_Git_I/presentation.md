@@ -5,7 +5,7 @@ email:    sebastian.zug@informatik.tu-freiberg.de
 
 version:  0.0.6
 
-language: en
+language: DE
 
 comment:  "I don't git it" Einführung in die Grundlagen der Versionsverwaltung 
 
