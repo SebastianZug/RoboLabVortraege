@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    sebastian.zug@informatik.tu-freiberg.de
 
-version:  0.0.6
+version:  0.0.7
 
 language: DE
 
