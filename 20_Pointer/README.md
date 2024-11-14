@@ -2,7 +2,7 @@
 
 author:   Sebastian Zug 
 email:    sebastian.zug@informatik.tu-freiberg.de 
-version:  1.1.2
+version:  1.1.3
 language: de
 narrator: Deutsch Female
 
@@ -14,9 +14,12 @@ import: https://github.com/liascript/CodeRunner
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/20_Pointer/README.md#1)
+
+
 # Zeigs mir! Anwendung von Pointern in C und C++
 
-<h2>Datenanlyse mit Python und Pandas </h2>
+<h2>Konzepte und Anwendung</h2>
 
 Vortrag im Rahmen der Bits&Bytes Vorträge des RoboLab Freiberg 
 
@@ -25,6 +28,8 @@ Juli 2024
 Prof. Dr. Sebastian Zug
 
 -------------------------------------
+
+
 
 ## Grundkonzept Zeiger
 
