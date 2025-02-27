@@ -467,7 +467,7 @@ __Variante 1: Dewey-Klassifikationsgetrieben__
 
 __Variante 2: Embedding-getrieben__
 
-![](image/similarity_network.png)
+![](images/similarity_network.png)
 
 https://github.com/SebastianZug/RoboLabVortraege/blob/bdfe06c4e3639d377b2d6a33132150f18c95a24f/48_ConnectedLecturers/images/similarity_network.html
 
