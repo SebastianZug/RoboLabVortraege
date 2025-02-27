@@ -1,0 +1,36 @@
+@media screen and (min-width: 700px) {
+  .left {
+    float: left;
+    width: calc(50% - 50px);
+  }
+
+  .right {
+    float: right;
+    width: calc(50% - 50px);
+    height: 70vh !important;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+.highlight {
+  border: 0.5rem solid darkorange;
+  border-radius: 5px;
+}
+
+.reference {
+  background: lightgray;
+}
+
+details {
+  margin: 2rem 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  background-color: #e9e9e9;
+  border: 1px solid #ccc;
+}
+
+summary {
+  font-size: large;
+  cursor: pointer;
+}
