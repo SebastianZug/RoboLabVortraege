@@ -35,7 +35,7 @@ red:  @mark(#FF888888,@0)
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/45_LiaScript/presentation.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/refs/heads/main/48_ConnectedLecturers/presentation.md#1)
 
 # TUBAF Bits&Bytes
 
@@ -467,7 +467,9 @@ __Variante 1: Dewey-Klassifikationsgetrieben__
 
 __Variante 2: Embedding-getrieben__
 
-Link
+![](image/similarity_network.png)
+
+https://github.com/SebastianZug/RoboLabVortraege/blob/bdfe06c4e3639d377b2d6a33132150f18c95a24f/48_ConnectedLecturers/images/similarity_network.html
 
 ## Danke 
 
