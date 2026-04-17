@@ -15,7 +15,7 @@ import:   https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.m
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/refs/heads/main/123_MistralAPI/presentation.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/refs/heads/main/89_MistralAPI/presentation.md#1)
 
 # TUBAF Bits&Bytes
 
@@ -508,4 +508,4 @@ __Material & Code__
 
 + [Offizielle API-Referenz](https://docs.mistral.ai/)
 + [Mistral Python SDK](https://github.com/mistralai/client-python)
-+ Die Beispielskripte dieses Vortrags liegen unter `123_MistralAPI/project/` im Repository.
++ Die Beispielskripte dieses Vortrags liegen unter `89_MistralAPI/project/` im Repository.

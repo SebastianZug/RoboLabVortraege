@@ -1,4 +1,4 @@
-# RoboLab Bits & Bytes - Vorträge 2024
+# RoboLab Bits & Bytes - Vorträge
 
 Dieses Repository umfasst die mit Hilfe von [LiaScript]() erstellten Materialien im RoboLab der TU Bergakademie Freiberg.
 
@@ -25,3 +25,9 @@ Dieses Repository umfasst die mit Hilfe von [LiaScript]() erstellten Materialien
 | 04.07.2024 |                                                                                                                                                                                          | Dr. Thomas Schumann        |
 | 11.07.2024 | Nach dem Spiel ist vor dem Spiel - Datenanalyse mit Python und Pandas                                                                                                                    | Prof. Dr. Sebastian Zug    |
 | 18.07.2024 | Zeig's mir! Pointer in C und C++                                                                                                                                                         | Prof. Dr. Sebastian Zug    |
+| 14.11.2024 | [Praktische Datenaggregation und -analysen mit Python am Beispiel des "Deutschen Automobiladressbuchs" von 1909](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/30_PythonAutomobile/presentation.md#1) | Prof. Dr. Sebastian Zug    |
+| 05.12.2024 | [Word vs. Latex - Ein kritischer Vergleich](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/31_LatexUndWord/presentation.md#1) | Prof. Dr. Sebastian Zug    |
+| 06.02.2025 | [Interaktive Lehr-Lern-Materialien mit LiaScript - Neue Features & Erfahrungen](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/45_LiaScript/presentation.md#1) | Prof. Dr. Sebastian Zug, Dr. André Dietrich |
+| 27.02.2025 | [OER-Connected Lectures (OER-CL)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/48_ConnectedLecturers/presentation.md#1) | Prof. Dr. Sebastian Zug, Dr. André Dietrich |
+| 27.11.2025 | [Word vs. Latex - Ein kritischer Vergleich](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/82_LatexUndWord/presentation.md#1) | Prof. Dr. Sebastian Zug    |
+| 16.04.2026 | [Anfragen an KI-Chatbots automatisieren – Mistral AI in Python einbinden](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/RoboLabVortraege/main/89_MistralAPI/presentation.md#1) | Prof. Dr. Sebastian Zug    |
