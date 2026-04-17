@@ -1,0 +1,6 @@
+id,text
+1,"Diese Studienarbeit untersucht die Pfadplanung eines vierrädrigen Lieferroboters auf Gehwegen der TU Bergakademie Freiberg. Mit einem A*-basierten Verfahren und einer in Python implementierten ROS2-Node wird eine kollisionsfreie Trajektorie berechnet und auf dem TurtleBot4 evaluiert."
+2,"Die Arbeit vergleicht zwei Convolutional-Neural-Network-Architekturen (ResNet50 und EfficientNet) für die Klassifikation von Dünnschliffbildern aus der Lagerstättenkunde. Das Training erfolgte in PyTorch auf einer Nvidia DGX-Workstation, die Auswertung in einem Jupyter Notebook."
+3,"Im Rahmen der Bachelorarbeit wird ein Stirling-Motor-Prüfstand mit einem Arduino Uno instrumentiert. Die Temperatur- und Druckdaten werden über eine serielle Schnittstelle an ein C++-Hostprogramm übertragen und dort grafisch ausgewertet."
+4,"Die Arbeit beschäftigt sich mit der rechtlichen Einordnung autonomer Lieferroboter im öffentlichen Straßenverkehr nach StVG und StVZO. Es werden zehn Rechtsfälle ausgewertet und aus einer juristisch-qualitativen Perspektive diskutiert. Eine Implementierung erfolgt nicht."
+5,"Gegenstand der Arbeit ist die semantische Suche in einer OPAL-Lehrmaterialsammlung. Dokumente werden über Embeddings in einer Qdrant-Vectordatenbank abgebildet; ein in Python geschriebenes Kommandozeilentool ermöglicht Ähnlichkeitsabfragen über die REST-API."
