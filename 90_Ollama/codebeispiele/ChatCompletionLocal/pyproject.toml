@@ -1,0 +1,8 @@
+[project]
+name = "chat-completion-local"
+version = "0.1.0"
+description = "Minimalbeispiel: Chat-Completion gegen lokalen Ollama-Server via OpenAI-SDK"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.40.0",
+]
