@@ -36,14 +36,14 @@ Prof. Dr. Sebastian Zug
 ```
 Das Entenhausener Finger-Problem
 
-Autoren Micky Maus & Donald Duck
+Micky Maus & Donald Duck
 
 Entenhausen Universität
 
-In diesem Paper Paper wird die Frage beantwortet, warum alle Bewohner von 
+In diesem Paper wird die Frage beantwortet, warum alle Bewohner von 
 Entenhausen nur vier Finger an jeder Hand haben.
 
-1. Einleitung und Forschungsfrage
+1. Einleitung und Forschungsfrage}
 
 In den 30er Jahre wurden die Figuren von 
 + Mickey Maus [1]
@@ -54,13 +54,23 @@ dass alle nur vier Finger an jeder Hand haben. Die Forschungsfrage, die in
 diesem Paper beantwortet werden soll, ist, warum das so ist.
 
 https://vectorportal.com/de/vector/micky-maus-vektorgrafiken.ai/2595
-"Beweisfoto" von Micky Maus
+
+Das Beweisfoto zeigt Micky Maus mit vier Fingern. Für alle anderen Bewohner wurde eine Tabelle angelegt und die Fingerzahl erfasst.
+
+Bewohner | Fingerzahl
+Micky Maus | 4
+Donald Duck | 4
+Goofy | 4 
+
+Versuchen wir das Ganze noch mal mathematisch zu greifen:
+
+1+1+1+1=4
 
 2. Erklärungsansatz
 
 In den frühen Tagen der Animation war es üblich, Figuren mit weniger Fingern zu 
 zeichnen, da es schneller ging und die Bewegungen flüssiger wirken ließ. Diese 
-Stilisierung hat sich über die Jahre hinweg fortgesetzt obwohl Comics heute digital 
+Stilisierung hat sich über die Jahre hinweg fortgesetzt, obwohl Comics heute digital 
 erstellt werden.
 
 3. Referenzen
@@ -181,3 +191,9 @@ Das Ausgangsdokument finden Sie unter [diesem Link](https://github.com/Sebastian
 | Typografie            | "Man kann alles falsch machen"         | Hohe Kontrolle über Typografie                                                     |
 | Versionskontrolle     | Begrenzte Unterstützung                | Gut unterstützt mit Versionierungstools wie Git                                    |
 | Kompatibilität        | Sehr gut, weit verbreitet              | Erfordert spezielle Software für Anzeige und Bearbeitung (z.B. TeX-Distributionen) |
+
+## Latex an der TUBAF
+
+> Die TUBAF hat eine sehr engagierte Community, die eine Vielzahl von Vorlagen vorbereitet hat. Diese werden in der kommenden Woche im Vortrag vorgestellt.
+
+https://tu-freiberg.de/tubaf-latex
